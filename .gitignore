@@ -1,0 +1,27 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+*.log
+*.tmp
+*.swp
+
+# Env
+.env
+.env.local
+
+# Node/builds
+node_modules/
+dist/
+build/
+.cache/
+
+# IDE/editor
+.vscode/
+.idea/
+
+# WordPress exports
+*.xml
+*.wie
+*.json.backup
