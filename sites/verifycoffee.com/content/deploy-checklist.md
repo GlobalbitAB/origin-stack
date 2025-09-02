@@ -1,0 +1,7 @@
+- DNS → Cloudflare
+- WP + Elementor installed
+- Pages: Home, Apply, Buyers, Pricing, Contact
+- Forms: Exporter Apply → Google Sheets; Buyer Waitlist → MailerLite
+- Stripe links on Pricing (Badge $99; Listing $19/mo)
+- Create /verify/demo-coop page from template
+- Submit sitemap to Search Console
