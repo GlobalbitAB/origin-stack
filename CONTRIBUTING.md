@@ -14,4 +14,4 @@
 ## PR Checklist
 - Clear description and screenshots
 - Update related docs in `/docs`
-- No secrets (keep API keys, IDs out of repo)
+- No secrets (API keys, IDs) in repo
