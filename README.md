@@ -1,25 +1,21 @@
 # OriginStack
 
-OriginStack is a lightweight infrastructure for building **trust and verification layers** around African export sectors (starting with coffee).  
-This repo powers three sites:
+OriginStack is a lightweight, repeatable system to build **trust & buyer access** for African exports (starting with coffee).  
+It powers a network of country microsites and a global hub:
 
-- 🌍 [VerifyCoffee.com](#verifycoffee) — global coffee badge & verification
-- 🇰🇪 [KenyaOrigin.com](#kenyaorigin) — verified Kenyan exports
-- 🇪🇹 [EthiopiaOrigin.com](#ethiopiaorigin) — verified Ethiopian exports
-
----
-
-## 🚀 Purpose
-
-African exporters need **credibility** and global buyers need **trust**.  
-OriginStack connects the two with:
-
-- ✅ **Verification Badges** (document-checked exporters)
-- 📄 **Public Verify Pages** (`/verify/{slug}`)
-- 📊 **Origin Reports** (trends, price insights, spotlighted suppliers)
-- ⚡ **Automation Flows** (intake → Sheets, waitlist → MailerLite, QR badge generation)
+- 🌍 VerifyCoffee.com — global verification & badges
+- 🇰🇪 KenyaOrigin.com — Kenya exporters
+- 🇪🇹 EthiopiaOrigin.com — Ethiopia exporters
+- 🇺🇬 UgandaOrigin.com — Uganda exporters
+- 🇷🇼 RwandaOrigin.com — Rwanda exporters
 
 ---
 
-## 📂 Repo Structure
+## Why it exists
+Exporters need credibility. Buyers need trust.  
+OriginStack delivers **Verification Badges**, **public verify pages** (`/verify/{slug}`), and **curated introductions**.
+
+---
+
+## Repo structure
 
