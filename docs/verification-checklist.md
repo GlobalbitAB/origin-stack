@@ -1,8 +1,8 @@
-# Verification Checklist (v1)
+# Exporter Verification Checklist
 
-Required from exporters/cooperatives:
-- Registration certificate or cooperative letter
-- Director/representative ID (redacted)
-- Product specs (grades, volumes, harvest windows)
-- Recent invoice or contract (redacted pricing allowed)
-- Payment receiving method (bank or stablecoin wallet proof)
+1. Company registration confirmed  
+2. Certifications validated (Organic, Fairtrade, etc.)  
+3. Reference checks (buyer/importer references)  
+4. Traceability system reviewed  
+5. Contact info verified  
+6. Badge issued  
