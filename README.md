@@ -30,4 +30,32 @@ Each site is designed to provide **trust, verification, and global visibility** 
 ---
 
 ## Folder Structure
+/sites/
+├── ethiopiaorigin.com/content/
+├── kenyaorigin.com/content/
+├── ugandaorigin.com/content/
+├── rwandaorigin.com/content/
+└── verifycoffee.com/content/
+
+
+Each `/content/` folder includes:
+- `home-hero.md` → homepage hero copy  
+- `apply.md` → exporter application flow  
+- `buyers.md` → buyer landing page  
+- `pricing.md` → pricing tiers and service levels  
+- `seo-keywords.md` → starter SEO keyword set  
+- `verify-page-template.md` → exporter verification template
+
+---
+
+## Usage
+
+- Content in `.md` files is **portable** → can be rendered into WordPress, static sites, or other CMS.  
+- Verified exporters are onboarded through **apply.md** workflows.  
+- Buyers are funneled via **buyers.md** → driving trust and lead generation.  
+- SEO is guided by each country’s `seo-keywords.md`.
+
+---
+
+✍️ Maintained as part of **OriginStack Monorepo** for easy scaling to new African countries.
 
